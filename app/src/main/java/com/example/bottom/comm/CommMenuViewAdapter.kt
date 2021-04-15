@@ -1,9 +1,10 @@
-package com.example.apngnavigation
+package com.example.bottom.comm
 
 import android.content.Context
 import android.widget.TextView
 import androidx.appcompat.widget.LinearLayoutCompat
-import com.example.apngnavigation.widget.BaseMenuViewAdapter
+import com.example.bottom.navigation.BaseMenuViewAdapter
+import com.example.bottom.widget.BoldStrokeTextView
 
 /**
  * @author DBoy 2021/2/1

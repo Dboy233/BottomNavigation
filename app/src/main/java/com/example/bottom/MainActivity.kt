@@ -1,11 +1,17 @@
-package com.example.apngnavigation
+package com.example.bottom
 
 import android.content.res.Resources
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.example.apngnavigation.databinding.ActivityMainBinding
-import com.example.apngnavigation.widget.*
+import com.example.bottom.comm.CommMenuViewAdapter
+import com.example.bottom.comm.LottieMenuViewAdapter
+import com.example.bottom.comm.LottieRawMenuSelector
+import com.example.bottom.databinding.ActivityMainBinding
+import com.example.bottom.navigation.CompatMenuView
+import com.example.bottom.navigation.DrawableMenuSelector
+import com.example.bottom.navigation.MenuData
+import com.example.bottom.navigation.OnMenuChangeListener
 
 class MainActivity : AppCompatActivity() {
 

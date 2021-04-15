@@ -1,7 +1,6 @@
-package com.example.apngnavigation;
+package com.example.bottom.widget;
 
 import android.content.Context;
-import android.content.res.TypedArray;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.text.TextPaint;

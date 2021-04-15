@@ -1,9 +1,9 @@
-package com.example.apngnavigation
+package com.example.bottom.comm
 
 import androidx.annotation.RawRes
 import com.airbnb.lottie.LottieAnimationView
-import com.example.apngnavigation.widget.CompatMenuView
-import com.example.apngnavigation.widget.MenuSelector
+import com.example.bottom.navigation.CompatMenuView
+import com.example.bottom.navigation.MenuSelector
 
 /**
  * @author DBoy 2021/2/1

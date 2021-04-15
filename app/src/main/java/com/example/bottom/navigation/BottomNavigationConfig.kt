@@ -1,4 +1,4 @@
-package com.example.apngnavigation.widget
+package com.example.bottom.navigation
 
 import android.content.Context
 import android.view.Gravity

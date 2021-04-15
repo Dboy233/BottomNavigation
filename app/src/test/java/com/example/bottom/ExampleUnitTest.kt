@@ -1,4 +1,4 @@
-package com.example.apngnavigation
+package com.example.bottom
 
 import org.junit.Test
 
